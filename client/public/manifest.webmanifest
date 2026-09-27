@@ -1,0 +1,11 @@
+{
+  "name": "Greetings",
+  "short_name": "Greetings",
+  "description": "Create personalised festival and occasion greetings in your language.",
+  "start_url": "./#/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FBF6EC",
+  "theme_color": "#14553F",
+  "orientation": "portrait"
+}
